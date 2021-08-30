@@ -1,3 +1,5 @@
-# Movie App 2021
+# Movie App 2019
 
-React JS fundamentals course(2019 Update)
+React JS fundamentals course 2021 (Update)
+
+# 첫 리액트 앱
