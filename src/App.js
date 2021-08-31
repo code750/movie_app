@@ -52,6 +52,7 @@ Food.propTypes = {
   rating: PropTypes.number
 };
 
+
 function App() {
   return (
     <div>
